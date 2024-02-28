@@ -13,7 +13,7 @@ import java.nio.channels.FileChannel;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class NewClass {
 
