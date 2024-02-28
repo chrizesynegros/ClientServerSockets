@@ -9,10 +9,10 @@ import java.net.Socket;
 
 
 /*
- * nombre: Mario Alonso Alvarez Perez
- * tema del programa: servidor  
- * descripcion: servidor telnet
- * fecha: 28/enero/2019
+ * name: Christian Ulises Rodriguez Noriega
+ * program theme: servidor  
+ * description:telnet server
+ * date: january/28/2019
  */
 
 public class Servidor 
