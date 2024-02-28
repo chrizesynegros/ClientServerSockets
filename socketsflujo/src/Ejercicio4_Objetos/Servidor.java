@@ -12,7 +12,7 @@ import java.net.Socket;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class Servidor {
     public static void main(String args[]){
