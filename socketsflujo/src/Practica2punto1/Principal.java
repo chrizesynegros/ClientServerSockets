@@ -13,7 +13,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class Principal extends javax.swing.JFrame {
 
