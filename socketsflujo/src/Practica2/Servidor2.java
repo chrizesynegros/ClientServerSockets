@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class Servidor2 {
     public static void main(String[] args) throws IOException{
