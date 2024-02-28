@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class Lista {
 
