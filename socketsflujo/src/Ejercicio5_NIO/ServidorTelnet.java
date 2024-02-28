@@ -13,7 +13,7 @@ import java.nio.channels.SocketChannel;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class ServidorTelnet {
     
