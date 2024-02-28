@@ -7,7 +7,7 @@ package Practica2punto1;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class Validaciones {
     
