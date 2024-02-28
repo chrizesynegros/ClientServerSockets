@@ -7,7 +7,7 @@ package Practica2;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class NewJFrame extends javax.swing.JFrame {
 
