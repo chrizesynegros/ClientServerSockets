@@ -9,7 +9,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /*
- * nombre: Mario Alonso Alvarez Perez
+ * nombre: Christian Ulises Rodriguez Noriega
  * tema del programa: servidor  
  * descripcion: servidor telnet
  * fecha: 28/enero/2019
