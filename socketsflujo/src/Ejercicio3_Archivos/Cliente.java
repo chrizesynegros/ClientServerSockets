@@ -16,7 +16,7 @@ import java.net.Socket;
 
 /**
  *
- * @author Usuario 1
+ * @author Christian Ulises Rodriguez Noriega
  */
 public class Cliente {
     public static void main(String args[]){
