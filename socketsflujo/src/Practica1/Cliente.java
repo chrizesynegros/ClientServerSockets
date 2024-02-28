@@ -12,7 +12,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 /*
- * nombre: Mario Alonso Alvarez Perez
+ * nombre: Christian Ulises Rodriguez Noriega
  * tema del programa: Practica 1
  * descripcion: cliente que separa mensaje puetro e ip
  * fecha: 1/febrero/2019
