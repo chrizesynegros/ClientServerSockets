@@ -15,7 +15,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author Usuario 1
+ * @author Chris
  */
 public class Cliente {
     public static void main(String args[]){
