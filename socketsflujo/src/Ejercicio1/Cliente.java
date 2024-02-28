@@ -9,9 +9,9 @@ import java.net.UnknownHostException;
 import Practica1.Separar;
 
 /*
- * nombre: Mario Alonso Alvarez Perez
- * tema del programa: servidor  
- * descripcion: servidor telnet
+ * name: Christian Ulises Rodriguez Noriega
+ * program theme: server
+ * description: telnet server
  * fecha: 28/enero/2019
  */
 
